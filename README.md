@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TrockenLumpen
+- 👋 Hi, I’m @Luca
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Program C
 - 💞️ I’m looking to collaborate on Game Development
