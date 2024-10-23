@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Luca
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Program C
+- 🌱 I’m currently learning C Programming
 - 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me : insta: Luca.Kohn and any other platform its the same.
 - 😄 Pronouns: He/Him
